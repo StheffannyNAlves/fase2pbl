@@ -1,0 +1,19 @@
+# Arquivos de log e saída do Quartus
+*.log
+*.rpt
+*.summary
+*.srf
+output_files/
+
+# Banco de dados de compilação
+db/
+incremental_db/
+
+# Arquivos de simulação
+simulation/
+*.wlf
+transcript
+
+# Outros arquivos temporários
+c5_pin_model_dump.txt
+*.bak
